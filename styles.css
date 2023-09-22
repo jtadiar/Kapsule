@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #FF0000; /* Red color for heading */
+  }
+  
+  table {
+    width: 60%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    border: 2px solid #9b0404; /* Red border for the table */
+  }
+  
+  th, td {
+    border: 1px solid #000000; /* Red border for cells */
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .red-heading {
+    background-color: #9b0404; /* Red background for headings */
+    color: white; /* White text for headings */
+    text-align: center;
+  }
+  
+  td {
+    background-color: #FFFFFF; /* Light red background for cells */
+    color: #FF0000; /* Red text for cells */
+  }
+  
+  th {
+    background-color: #9b0404; /* Darker red background for header cells */
+    color: white; /* White text for header cells */
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .logo-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .logo-container img {
+    width: 250px; /* Adjust the width as needed */
+    display: block; /* Center the image within the container */
+    margin: 0 auto; /* Center the image horizontally */
+  }
+  
+  h1 {
+    color: #000000; /* Red color for heading */
+    margin-top: 10px; /* Adjust the spacing between logo and heading */
+  }
+  
+  /* Rest of your CSS styles */
+  /* ... */
+  
